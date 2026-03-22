@@ -9,6 +9,11 @@ Customer Value Prediction & Key Driver Analysis
 This project aims to identify high-value customers and understand the key factors driving customer value using machine learning and model interpretability (SHAP).
 
 🎯 Business Problem
+In many businesses, identifying high-value customers is critical for revenue growth.
+
+However, companies often focus on increasing transaction size rather than understanding customer behavior.
+
+This project addresses that problem by using machine learning and SHAP to uncover the true drivers of customer value.
 
 Beauty Salon Chain Company want to know:
 
@@ -46,6 +51,21 @@ Data Analysis & Business Insight
 Add dashboard (Power BI / Tableau)
 Use real-world customer dataset
 Deploy model as API
+
+## 🤖 Why SHAP?
+
+Instead of treating the model as a black box, SHAP was used to explain individual predictions and feature importance.
+
+This allows us to:
+
+* Understand how each feature impacts predictions
+* Build trust in the model
+* Translate model outputs into business decisions
+
+## 🧠 Key Takeaway
+
+This project shows that the value of machine learning is not just prediction accuracy, but the ability to generate actionable business insights.
+
 
 ## 📊 Model Interpretation
 
