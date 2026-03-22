@@ -49,5 +49,5 @@ Deploy model as API
 
 ## 📊 Model Interpretation
 
-![SHAP Summary]"C:\Users\seanl\python-ai-journey\shap_summary.png"
+![SHAP Summary](C:\Users\seanl\python-ai-journey\shap_summary.png)
 
