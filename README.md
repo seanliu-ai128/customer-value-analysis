@@ -1,4 +1,7 @@
 # customer-value-analysis
+Achieved 97% model accuracy
+Applied SHAP for model interpretability
+Translated ML results into business insights
 ML + SHAP customer analysis
 Customer Value Prediction & Key Driver Analysis
 📌 Project Overview
@@ -7,7 +10,7 @@ This project aims to identify high-value customers and understand the key factor
 
 🎯 Business Problem
 
-Companies want to know:
+Beauty Salon Chain Company want to know:
 
 Who are their most valuable customers?
 What drives customer value?
