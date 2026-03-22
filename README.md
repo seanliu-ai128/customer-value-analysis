@@ -47,7 +47,5 @@ Add dashboard (Power BI / Tableau)
 Use real-world customer dataset
 Deploy model as API
 
-## 📊 Model Interpretation
-
 ![SHAP Summary](outputs/shap_summary.png)
 
